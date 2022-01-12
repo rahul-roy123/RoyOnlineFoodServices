@@ -1,0 +1,64 @@
+.logo {
+    margin: 2px;
+    padding: 4px;
+}
+.logo img{
+    
+    width: 70px;
+    height: 70px;
+    margin: 6px 6px;
+    border-radius: 100%;
+}
+#navbar ul li a {
+    padding: 0px 5px;
+    font-size: 1rem;
+    padding-bottom: 15px;
+}
+#home h1{
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+    line-height: 23px;
+}
+#home p {
+    font-size: 13px;
+}
+#home {
+    height: 311px;}
+#home::before {
+        height: 461px;
+    }
+    #home .btn {
+        padding: 2px 15px;
+        font-size: 12px;
+    }
+.services-container h1{
+    
+        font-size: 24px;
+    
+}
+#services .box {
+    margin: 2px 6px;
+}
+#services .box h2{
+        font-size: 24px;
+} 
+#services .box img {
+            height: 180px;
+            width: 180px;
+}
+.h-primary {
+    font-size: 24px;
+}
+#clinets .client-item img {
+    height: 70px;
+    width: 70px;
+    border-radius: 24px;
+}
+#contact-box form {
+    width: 95%;
+}
+#contact-box label {
+    font-size: 1.2rem;
+    margin-left: 2px;
+}
