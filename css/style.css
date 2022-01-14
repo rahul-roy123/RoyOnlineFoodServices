@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
 }
+html{scroll-behavior: smooth;
+}
 body{
     font-family: 'Baloo Bhaijaan 2', cursive;
 }
@@ -13,7 +15,7 @@ body{
 #navbar{
     display: flex;
     align-items: center;
-    position: relative;
+    position: sticky;
 }
 #navbar::before{
     content: "";
